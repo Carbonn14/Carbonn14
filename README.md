@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carbonn14
+- 👋 Hi, I’m @Pratik
 - 👀 I’m interested in Chemical engg projects deploying python.
 - 💞️ I’m looking to collaborate on Chemical engg projects.
 - 📫 How to reach me: pratikwikhe@gmail.com
